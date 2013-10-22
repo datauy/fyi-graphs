@@ -4,6 +4,8 @@ foie-graphs
 Scan an alaveteli instance and generate FOI performance graphs for the last 
 twelve months.
 
+Para que-sabes estoy principalmente haciendo trabajo en http://gabelula.github.io/quesabes-graphs/ . La idea es subirlo a heroku en algun momento. 
+
 HOWTO
 =====
 
